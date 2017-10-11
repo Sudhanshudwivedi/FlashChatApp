@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "740711808170",
+    "firebase_url": "https://flash-ee0ba.firebaseio.com",
+    "project_id": "flash-ee0ba",
+    "storage_bucket": "flash-ee0ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740711808170:android:6b88c5aed1090953",
+        "android_client_info": {
+          "package_name": "com.example.sudhanshu.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740711808170-og99cl3mracvar49gkb56qbmpvspg9uq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sudhanshu.flash",
+            "certificate_hash": "6a6004a56b5edcc9ae56e1419f38c4e796718f19"
+          }
+        },
+        {
+          "client_id": "740711808170-afkdq6ofrb6f9vogupgprmoc5kv2e2g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sudhanshu.flash",
+            "certificate_hash": "ceb80c6f9aabec0a7372ba8322acd2d83107cdd3"
+          }
+        },
+        {
+          "client_id": "740711808170-dmld11570regpobsfcro02r9u8b91k9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsc6pUPtLg_c1EnEYCcgZ6xQ580FcEOiA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740711808170-dmld11570regpobsfcro02r9u8b91k9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
