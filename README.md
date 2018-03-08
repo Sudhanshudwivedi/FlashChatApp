@@ -21,8 +21,8 @@ Push notification on status bar when has new message.
 Screenshot
 
 
-![screenshot_20180308-153900 1](https://user-images.githubusercontent.com/13920440/37145493-0889a944-22e7-11e8-9616-5812730c000c.png)
-![screenshot_20180308-153907 1](https://user-images.githubusercontent.com/13920440/37145495-09b6849a-22e7-11e8-9cf4-926901549e18.png)
-![screenshot_20180308-153912 1](https://user-images.githubusercontent.com/13920440/37145500-0b5525ea-22e7-11e8-85f6-dc2a50eaa39e.png)
-![screenshot_20180308-153918 1](https://user-images.githubusercontent.com/13920440/37145507-0cf4e5de-22e7-11e8-9f0b-801e7edbec52.png)
-![screenshot_20180308-153923 1](https://user-images.githubusercontent.com/13920440/37145510-0f1be466-22e7-11e8-8ff6-713672bf61c9.png)
+![1](https://user-images.githubusercontent.com/13920440/37145649-6b5265d4-22e7-11e8-8a39-600c1a70c67b.PNG)
+![2](https://user-images.githubusercontent.com/13920440/37145651-6ddec338-22e7-11e8-84c9-36b1c306ec9b.PNG)
+![4](https://user-images.githubusercontent.com/13920440/37145654-70b1e2f2-22e7-11e8-8649-47f1b3ded091.PNG)
+![3](https://user-images.githubusercontent.com/13920440/37145661-7376d0ce-22e7-11e8-80ca-eb39c07fd604.PNG)
+![5](https://user-images.githubusercontent.com/13920440/37145664-75e4d20c-22e7-11e8-9d52-d4d67145d3a2.PNG)
