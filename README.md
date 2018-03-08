@@ -18,7 +18,7 @@ Chat in group: create group, add member, kickoff member, delete group and rename
 Push notification on status bar when has new message.
 
 
-Screenshot
+# ScreenShots
 
 
 ![1](https://user-images.githubusercontent.com/13920440/37145649-6b5265d4-22e7-11e8-8a39-600c1a70c67b.PNG)
