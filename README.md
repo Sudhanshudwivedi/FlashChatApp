@@ -28,5 +28,4 @@ Push notification on status bar when has new message.
 ![5](https://user-images.githubusercontent.com/13920440/37145664-75e4d20c-22e7-11e8-9d52-d4d67145d3a2.PNG)
 ![capture1](https://user-images.githubusercontent.com/13920440/39918763-1f85bc1c-552f-11e8-8010-ed885c3cf4a2.PNG)
 ![capture2](https://user-images.githubusercontent.com/13920440/39918804-3b1c16ce-552f-11e8-847f-ab044bf2843e.PNG)
-![capture2](https://user-images.githubusercontent.com/13920440/39918826-52607fb4-552f-11e8-94bd-2d6511a887d1.PNG)
 ![capture3](https://user-images.githubusercontent.com/13920440/39918830-5533c28c-552f-11e8-9eca-30aeb8c528f5.PNG)
