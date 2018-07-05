@@ -1,7 +1,7 @@
 # FlashChatApp
 FlashChat is a example for chat app based on Google Firebase, messages are delivered in real-time.
 Feature
-1. Signin, signout, register.
+1. SignIn, signout, register.
 
 Register: allow user register a new account with username and password
 Signin: user must signin with username and password to use app.
